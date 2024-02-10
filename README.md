@@ -13,7 +13,7 @@ launch a new EC2 instance. for backup create a snapshot, and add EBS volume for 
 
 4. Select Vpc create a Security group and add ports, SSH 22, HTTP 80, and HTTPS 443 allowing them to anywhere.
 
-5. Click Launch Instance
+5. Click Launch Instance.
 
 &nbsp;
    
